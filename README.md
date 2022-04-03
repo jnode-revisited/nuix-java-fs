@@ -1,6 +1,10 @@
 # java-fs
 Various file system implementations based on the code of the JNode operating system
 
+---
+
+Forked from [https://github.com/Nuix/java-fs](https://github.com/Nuix/java-fs)
+
 ```
 /*
  * Copyright (C) 2003-2016 JNode.org
